@@ -1,0 +1,6 @@
+{
+  "name": "Arsip Dokumen ISMAYA PROPERTY",
+  "description": "Sistem Informasi E-Arsip Dokumen Elektronik ISMAYA PROPERTY berbasis web dengan manajemen surat masuk/keluar, penomoran urut abjad, upload PDF, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
